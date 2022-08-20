@@ -1,0 +1,11 @@
+Team016:
+
+Sheng Xi        email: sxi8@gatech.edu
+Qichen Xiang    email: qxiang9@gatech.edu
+Jin Lei         email: ljin78@gatech.edu
+hongbo shi      email: hshi85@gatech.edu
+Yutong Wu       email: ywu858@gatech.edu
+
+
+Note:
+SQL scripts used to create database, table and constraints are in this file: \sql\team016_sp21_p3_complete

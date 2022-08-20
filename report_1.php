@@ -23,9 +23,16 @@
 							<td class="heading">Max Price</td>
                         </tr>							
                         <?php
-							$query = "SELECT c.CategoryName, COUNT(p.PID) 'Count of Product', MIN(P.Price) 'Min Price',AVG(P.Price) 'Average Price',MAX(P.Price) 'Max Price' " .
-                                        "FROM Category c LEFT JOIN BelongTo b on c.CategoryName=b.CategoryName LEFT JOIN Product p on b.PID=p.PID " .
-                                        "GROUP BY c.CategoryName ORDER BY c.CategoryName ASC";
+							$query = "SELECT c.CategoryName, 
+                                             COUNT(p.PID) 'Count of Product', 
+                                             MIN(P.Price) 'Min Price',
+                                             AVG(P.Price) 'Average Price',
+                                             MAX(P.Price) 'Max Price' " .
+                                        "FROM Category c 
+                                              LEFT JOIN BelongTo b on c.CategoryName=b.CategoryName 
+                                              LEFT JOIN Product p on b.PID=p.PID " .
+                                        "GROUP BY c.CategoryName 
+                                        ORDER BY c.CategoryName ASC";
 
 							$result = mysqli_query($db, $query);
                             include('lib/show_queries.php');                                  

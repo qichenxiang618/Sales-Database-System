@@ -37,13 +37,13 @@
                                             
                                             "CTE2 AS( " .
                                             "SELECT PID,ProductName 'Product Name',Price 'Retail Price',  " .
-                                            "SUM(Units_DiscountPrice+Units_RetailPrice) 'Total Units Sold', " .
-                                            "SUM(Units_RetailPrice) 'Units Sold at RetailPrice', " .
-                                            "SUM(Units_DiscountPrice) 'Units Sold at DiscountPrice', " .
-                                            "SUM(CASE WHEN DiscountPrice IS NULL THEN Price*Units_RetailPrice ELSE DiscountPrice*Units_DiscountPrice END) 'Actual Revenue', " .
-                                            "SUM(CASE WHEN DiscountPrice IS NULL THEN Price*Units_RetailPrice ELSE Price*Units_DiscountPrice*0.75 END) 'Predicted Revenue', " .
-                                            "SUM(CASE WHEN DiscountPrice IS NULL THEN Price*Units_RetailPrice ELSE DiscountPrice*Units_DiscountPrice END) - " .
-                                            "SUM(CASE WHEN DiscountPrice IS NULL THEN Price*Units_RetailPrice ELSE Price*Units_DiscountPrice*0.75 END) 'Difference' " .
+                                                    "SUM(Units_DiscountPrice+Units_RetailPrice) 'Total Units Sold', " .
+                                                    "SUM(Units_RetailPrice) 'Units Sold at RetailPrice', " .
+                                                    "SUM(Units_DiscountPrice) 'Units Sold at DiscountPrice', " .
+                                                    "SUM(CASE WHEN DiscountPrice IS NULL THEN Price*Units_RetailPrice ELSE DiscountPrice*Units_DiscountPrice END) 'Actual Revenue', " .
+                                                    "SUM(CASE WHEN DiscountPrice IS NULL THEN Price*Units_RetailPrice ELSE Price*Units_DiscountPrice*0.75 END) 'Predicted Revenue', " .
+                                                    "SUM(CASE WHEN DiscountPrice IS NULL THEN Price*Units_RetailPrice ELSE DiscountPrice*Units_DiscountPrice END) - " .
+                                                    "SUM(CASE WHEN DiscountPrice IS NULL THEN Price*Units_RetailPrice ELSE Price*Units_DiscountPrice*0.75 END) 'Difference' " .
                                             "FROM CTE1  " .
                                             "GROUP BY PID, ProductName,Price)  " .
                                             "SELECT C.* FROM CTE2 C JOIN BelongTo B ON C.PID=B.PID  " .

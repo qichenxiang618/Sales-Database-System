@@ -23969,3 +23969,38 @@ Stack trace:
 [20-Aug-2022 19:23:03 America/Los_Angeles] PHP Warning:  Undefined variable $result in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database System\lib\show_queries.php on line 11
 [20-Aug-2022 19:23:03 America/Los_Angeles] PHP Warning:  Undefined variable $result in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database System\lib\show_queries.php on line 11
 [20-Aug-2022 19:23:03 America/Los_Angeles] PHP Warning:  Undefined variable $result in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database System\lib\show_queries.php on line 11
+[20-Aug-2022 20:15:35 America/Los_Angeles] PHP Warning:  Undefined variable $result in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\lib\show_queries.php on line 11
+[20-Aug-2022 20:15:35 America/Los_Angeles] PHP Warning:  Undefined variable $result in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\lib\show_queries.php on line 11
+[20-Aug-2022 20:15:35 America/Los_Angeles] PHP Warning:  Undefined variable $result in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\lib\show_queries.php on line 11
+[20-Aug-2022 20:15:35 America/Los_Angeles] PHP Warning:  Undefined variable $result in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\lib\show_queries.php on line 11
+[20-Aug-2022 20:15:35 America/Los_Angeles] PHP Warning:  Undefined variable $result in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\lib\show_queries.php on line 11
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42
+[20-Aug-2022 20:17:56 America/Los_Angeles] PHP Warning:  Undefined array key "CategoryNameee" in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database\report_1.php on line 42

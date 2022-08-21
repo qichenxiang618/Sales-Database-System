@@ -23964,3 +23964,8 @@ Stack trace:
 [20-Aug-2022 17:33:55 America/Los_Angeles] PHP Warning:  Undefined variable $result in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\E-commerce Database\lib\show_queries.php on line 11
 [20-Aug-2022 17:33:55 America/Los_Angeles] PHP Warning:  Undefined variable $result in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\E-commerce Database\lib\show_queries.php on line 11
 [20-Aug-2022 17:37:04 America/Los_Angeles] PHP Warning:  Undefined variable $Year in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\E-commerce Database\report_5.php on line 90
+[20-Aug-2022 19:23:03 America/Los_Angeles] PHP Warning:  Undefined variable $result in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database System\lib\show_queries.php on line 11
+[20-Aug-2022 19:23:03 America/Los_Angeles] PHP Warning:  Undefined variable $result in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database System\lib\show_queries.php on line 11
+[20-Aug-2022 19:23:03 America/Los_Angeles] PHP Warning:  Undefined variable $result in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database System\lib\show_queries.php on line 11
+[20-Aug-2022 19:23:03 America/Los_Angeles] PHP Warning:  Undefined variable $result in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database System\lib\show_queries.php on line 11
+[20-Aug-2022 19:23:03 America/Los_Angeles] PHP Warning:  Undefined variable $result in C:\Bitnami\wampstack-8.1.9-0\apache2\htdocs\Sales Database System\lib\show_queries.php on line 11

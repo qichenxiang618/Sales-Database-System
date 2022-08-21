@@ -9,7 +9,7 @@ In this project, I designed and implemented a relational sales database with 12 
 
 In addition to the database itself, I also developed a multiple-page and interactive website for the database using PHP. It contains various data reports, allowing users to see data from various perspectives. Some reports allow users to use filters to specify the data they want to see. It also allows users to update some data in the database, such as holiday data and population data.
 
-## Technologies
+## Technology
 
 - Tech Stack: WAMP (Windows, Apache, MySQL, PHP) packaged by Bitnami
 - Languages: HTML, CSS, PHP, MySQL
